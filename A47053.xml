@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for liberty of conscience grounded upon the Holy Word of God, and the royal word of the King : containing twelve weighty reasons against the prosecuting of Protestant dissenters ... / by James Jones ...</title>
+            <author>Jones, James, fl. 1683-1684.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47053</idno><idno type="EEBO-CITATION">12576370</idno>
+  <idno type="VID">63586</idno>
+  <idno type="EEBO-PROQUEST">2240972792</idno>
+  
+            <idno type="STC">Wing J959</idno>
+            <idno type="STC">ESTC R1733</idno>
+            <idno type="OCLC">12576370</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63586)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 962:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for liberty of conscience grounded upon the Holy Word of God, and the royal word of the King : containing twelve weighty reasons against the prosecuting of Protestant dissenters ... / by James Jones ...</title>
+                  <author>Jones, James, fl. 1683-1684.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63586:1"/>
+            <pb facs="tcp:63586:1"/>
+            <p>A PLEA FOR Liberty of Conscience: Grounded Upon The HOLY WORD of GOD, AND The ROYAL WORD of the KING.</p>
+            <p>CONTAINING <hi>Twelve Weighty Reasons</hi> Against the Prosecuting of Protestant-Dissenters FOR MATTERS OF RELIGION Humbly offered to the Consideration of all that are in Authority.</p>
+            <p>By <hi>JAMES JONES,</hi> a Protestant-Dissenter, and now a Pri<g ref="char:EOLhyphen"/>soner for Nonconformity, in <hi>Woodstreet-Comp<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>The words of King</hi> Artaxerxes, <hi>when he Granted Liberty of conscience to the</hi> Jews:</p>
+               <p>I make a Decree, That all they of the People of <hi>Israel,</hi> which are minded of their own Free Will to go up to <hi>Jerusalem,</hi> go with thee.</p>
+               <p>And whatsoever is Commanded by the God of Heaven, let it be diligently done for the House of the God of Heaven: for why should there be Wrath against the Realm of the King?</p>
+               <bibl>
+                  <hi>Ezra. 7.13, 23.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>And now I say unto you, Refrain from these Men, and let them alone; for if this Counsel or this Work be of Men, it will come to nought.</p>
+               <p>But if to be of God, ye cannot over-throw it, least haply ye he found even to fight a<g ref="char:EOLhyphen"/>gainst God.</p>
+               <bibl>
+                  <hi>Acts 5.38, 39.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>George Larkin</hi> at the Lower End of <hi>Broadstreet,</hi> next to <hi>London-Wall.</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:63586:2"/>
+            <pb n="1" facs="tcp:63586:2"/>
+            <head>A PLEA FOR Liberty of Conscience, In Twelve Weighty Reasons.</head>
+            <div n="1" type="reason">
+               <head>I.</head>
+               <p>THe First Reason is, Because the Great God of Heaven and Earth, who is King of Kings, and Lord of Lords, hath not appointed any Force<g ref="char:EOLhyphen"/>able ways or courses to bring men and women to conform to his Wor<g ref="char:EOLhyphen"/>ship; God hath not apoointed Death, or Banishment, or Imprison<g ref="char:EOLhyphen"/>ment, or Loss of Goods, as Punishments for such as do not come to any part of <hi>his Divine Service.</hi> But God hath been graciously pleased to give his holy Scriptures, consisting of <hi>Divine Precepts,</hi> wherein is discovered Mans Duty; and <hi>Precious Promises,</hi> wherein is discovered Gods Mercy to those that forsake wickedness, and walk in the ways of Godliness; and <hi>Severe Threatnings,</hi> where<g ref="char:EOLhyphen"/>in God hath discovered his Justice in those Punishments that shall come hereaf<g ref="char:EOLhyphen"/>ter upon such as live and die in disobedience: And god hath also graciously favoured the World with such as can Preach the Will of God as it is contained in his holy word, whose work is to <hi>inform</hi> the <hi>Judgment,</hi> and <hi>convince</hi> the <hi>Consci<g ref="char:EOLhyphen"/>ence,</hi> by gentle Inviting, sweet Intreating, and spiritual powerful Perswading the children of men to be reconciled to God; 2 <hi>Cor.</hi> 5.20. <hi>We pray you in Christs stead, be ye reconciled to God.</hi> God hath not appointed <hi>his</hi> Church, nor <hi>his</hi> Bi<g ref="char:EOLhyphen"/>shops, to stir up any Magistrates or Courts of Justice to grant Writs <hi>de Excom<g ref="char:EOLhyphen"/>municato Capiendo,</hi> to cast Excommunciated Persons into Goals, till they conform to <hi>his</hi> Church; neither hath God required any Parish Officers to Present such Persons as do not attend <hi>his</hi> holy Service, that so they may be Prosecuted at the Sessions or Assizes, before the Justices or Judges of any Kingdom under Heaven. But he hath reserved the punishing of such Persons unto himself; which is sometimes done by affliction in this life from his own hand, and will be further done in the day of his Righteous Judgment, <hi>When Christ shall come in Flaming Fire, taking vengeance on them that know not God, and obey not the Gospel of our Lord Jesus Christ;</hi> and then he vvill also <hi>recompence tribulation to the that trouble his Servants,</hi> 2 Thes. 1.7.8.</p>
+            </div>
+            <div n="2" type="reason">
+               <pb n="2" facs="tcp:63586:3"/>
+               <head>II.</head>
+               <p>The Second Reason is, Because the Kings Majesty hath given his Royal Word and Promise to his Subjects, assuring them they shall enjoy Liberty of Consci<g ref="char:EOLhyphen"/>ence. See his Majesties Declaration from <hi>Breda,</hi> in <hi>April</hi> 1660. in these words: <hi>We do declare a Liberty to Tender Consciences, and that no man shall be disquieted or called in question for differences in Opinion in matters of Religion, which do not disturb the Peace of the Kingdom; and that We shall be ready to consent to such an Act of Parliament, as upon mature deliberation shall be offered to Ʋs, for the full granting that Indulgence.</hi> Now let this his Majesties Royal Promise be well considered:</p>
+               <p>First, That it was <hi>Freely</hi> done, flowing from his own Princely Brest, with<g ref="char:EOLhyphen"/>out being <hi>Extorted</hi> from him, or <hi>Imposed</hi> on him, as any condition of his Ma<g ref="char:EOLhyphen"/>jesties Restauration.</p>
+               <p>Secondly, Consider, That his Majesty did wisely distinguish between diffe<g ref="char:EOLhyphen"/>rences of Opinion in matters of Religion, and the Disturbing the Peace of the Kingdom, and thereby did intimate his knowledge that though many of his Sub<g ref="char:EOLhyphen"/>jects by reason of Tenderness of Conscience could not conform to that which might be the Established Worship in his Kingdom, yet they might be such good Subjects as not to disturb the Peace of his Kingdom. And therefore let all sorts of the Kings Subjects, whether men of low or high degree, take heed, that they do not disgrace or affront this his Majesties Royal Promise, by judg<g ref="char:EOLhyphen"/>ing or Censuring such of the Kings Protestant Subjects, against whom there is nothing but difference in matters of Religion, to be thereby Disturbers of the Peace of the Kingdom.</p>
+               <p>Thirdly, Consider that his Majesty did in his Wisdom judge it to be a mu<g ref="char:EOLhyphen"/>tual happiness for himself, as a King, and for his People, as Subjects, that there should be Liberty of Conscience.</p>
+               <p>Fourthly, Consider that the King in his Declaration, dated <hi>October</hi> 25. 1660. Saith thus: in <hi>p.</hi> 18. <hi>In a word, We do again renew what We have formerly said in Our Declaration from</hi> Breda, <hi>for the Liberty of Tender Consciences; That no man shall be disquieted or called in question for Differences in Opinion in matters of Re<g ref="char:EOLhyphen"/>ligion, which do not disturb the Peace of the Kingdom; and if any have been distur<g ref="char:EOLhyphen"/>bed in that kind since Our Arrival here, it hath not Proceeded from any Direction of Ours.</hi> From which Words of his Majesty, it will not be amiss, by the VVay, to observe, That sometimes his Majesties Subjects may be disturbed and troubled upon the score of Conscience, without his Majesties Direction; and there is good Cause to believe that his Majesty doth not know of the tenth part of the Distresses and Miseries that his peaceable Subjects do now labour under in ma<g ref="char:EOLhyphen"/>ny parts of his Kingdom, only for Conscience sake, in those things that are the matters of their God.</p>
+               <p>Fifthly, Consider, That at the Opening of the Parliament on the Eighth day of <hi>May,</hi> 1661. His Majesty VVas pleased to Express himself thus in his Speech to both Houses of Parliament, p. 1. <hi>I do value My Self much upon keeping My Word, upon making good what soever I promise to My Subjects.</hi> Which Words of his Ma<g ref="char:EOLhyphen"/>jesty, the Lord <hi>Chancellour</hi> in his Speech at the same time, took particular and special notice of, repeating them again thus: <hi>He</hi> (meaning his Majesty) <hi>told you but now that He values Himself much upon keeping His word, upon performing all that He promiseth to His People.</hi>
+               </p>
+               <p>Sixthly, Consider, That his Majesty in his Speech to both Houses of Parlia<g ref="char:EOLhyphen"/>ment the Eighth of <hi>July,</hi> 1661. did with pleasure Repeat this his Royal Pro<g ref="char:EOLhyphen"/>mise,
+<pb n="3" facs="tcp:63586:3"/>thus: <hi>It is to put my self in mind, as well as you, that I, (I think so often at I come to you) mention to you my Declaration from</hi> Bread; <hi>and let me put you in mind of another Declaration, published by your selves about the same time, and which I am perswaded, made mine the more effectual, an honest, generous, Christian De<g ref="char:EOLhyphen"/>claraction, signed by the most Eminent Persons, that had been the most Eminent Suf<g ref="char:EOLhyphen"/>fers; in which you renounced all former Animosities, and memory of former Ʋn<g ref="char:EOLhyphen"/>kindnesses; And my Lords and Gentlemen, Let it be in no mans power to charge Me or You, with the breach of Our Words or Promises, which can never be a good Ingredi<g ref="char:EOLhyphen"/>ent for Our future Security.</hi>
+               </p>
+               <p>Sevently, Consider, That His Majesty in his Declaration of <hi>December</hi> 26. 1662. did account himself Maliciously Scandalized by some who did vene<g ref="char:EOLhyphen"/>mously insinuate, That though he had made such Solemn Promises of Liberty for Tender Consciences, yet he had added straighter setters then ever. See His Majesties own words in the said Declaration, page 3. And in the 7th page of the same Declaration, His Majesty doth again repeat his Promise from <hi>Breda,</hi> with great dislike of those that did maliciously insinuate as if he were not for the performance thereof: Pray Consider the following words of His Majesty in that Declaration: <hi>Concerning the Non-performance of Our Promises, We well remember the very words from</hi> Breda, viz. <hi>We do declare a Liberty to Tender Consciences, and that no man shall be dis1uieted or called in question for Differences in Opinion in mat<g ref="char:EOLhyphen"/>ters of Religion, which do not disturb the Peace of the Kingdom; and that We shall be ready to Consent to such an Act of Parliament as upon mature deliberation shall be offered to Ʋs, for the full granting that Indulgence. We remember well the Confirma<g ref="char:EOLhyphen"/>tions We have made of them since upon several Occasions in Parliament; and as all these things are still fresh in Our Memory, so are We</hi> STILL FIRM <hi>in the Resolution of</hi> PERFORMING THEM TO THE FULL.</p>
+               <p>And in Page the Eighth, His Majesty doth in his Princely Wisdom Express himself thus: <hi>We do conceive Our Selves so far Engaged, both in Honour, and in what We owe to the Peace of our Dominions, which We profess. We can never think secure, whilst there shall be a colour left to the Malicious and Disaffected to in<g ref="char:EOLhyphen"/>flame the minds of so many multitudes upon the score of Conscience, with despair of ever obtaining any effect of Our Promises for their Ease.</hi> Now from this his Maje<g ref="char:EOLhyphen"/>sties Declaration, let these four things be soberly considered:</p>
+               <list>
+                  <item>1. His Majesties well remembring his Promise for Liberty of Conscience.</item>
+                  <item>2. His Majesties being highly offended that any Person should insinuate as if be did not intend the performance thereof.</item>
+                  <item>3. Consider His Majesties <hi>Firm Resolution to perform his Promise to the full.</hi>
+                  </item>
+                  <item>4. Consider that His Majesty would not have His Subjects upon the score of conscience let fall their hopes, and so fall into despair of obtaining the Effects of this his Promise, <hi>viz.</hi> Liberty of Conscience, for their Ease. And therefore I humbly hope that the mentioning of the former Particulars, as a Reason or Argument for Liberty of Conscience, will not be offensive to His Majesty, or a<g ref="char:EOLhyphen"/>ny that are in Authority, forasmuch as there is yet cause (from His Majesties own words) to hope for the benefit of what He hath so often promised.</item>
+               </list>
+               <p>
+                  <hi>Object.</hi> But some will be ready to Object and Say. That some of the Dissen<g ref="char:EOLhyphen"/>ters have disturbed the Peace of the Kingdom, since His Majesty made this Pro<g ref="char:EOLhyphen"/>mise.</p>
+               <p>
+                  <hi>Answ.</hi> I answer, Those that have, or those that may be guilty of such Crimes, let them suffer according to their Crimes: But it would be highly unreasonable to deny all those that are ot Disturbers of the Peace, to have the benefit of the Kings Royal Promise; since His Majesty doth plainly declare that all his Peace<g ref="char:EOLhyphen"/>able Subjects shall enjoy the benefit of His Promise, <hi>viz.</hi> Liberty of Conscience, without any disquieiting or disturbance. And besides this, His Majesty hath declared a Resolution to distinguish between the Innocent and the Guilty: I
+<pb n="4" facs="tcp:63586:4"/>pray consider His Majesties own words to both Houses of Parliament, in his Speech <hi>July</hi> 8. 1661. <hi>Let Ʋs look forward, and not backward; and never think of what is past, Except men put Ʋs in mind of it, by Repeating Faults We had for<g ref="char:EOLhyphen"/>got; and then let Ʋs remember</hi> NO MORE <hi>then what Concerns</hi> THOSE VERY PERSONS.</p>
+            </div>
+            <div n="3" type="reason">
+               <head>III.</head>
+               <p>The Third Reason for Liberty of Conscience, is, Because, the Prosecuting of Protestant Dissenters for Matters of Conscience, is a great disquieting of the minds of great multitudes of his Majesties good Subjects, and a great hindrance to the Trade of the Kingdom, the Dissenters being a great part of the Trading people of the Kingdom, considered as Merchants and Shopkeepers, in this great City; and Clothiers, Farmers, and many other Tradesmen in the Country, by which many thousands of the Kings poor Subjects are maintained. And this ve<g ref="char:EOLhyphen"/>ry thing His Majesty was pleased to take into His Princely Consideration, when he put forth his Indulging Declaration, by the Advice of his Privy Council, in <hi>March</hi> 1672. after a violent Prosecution of that Act against Conventicles, in these very words: <hi>But it being evident by the sad Experience of twelve years, that htere is very little Fruit of all those Forceable Courses; We think Our Self obliged to make use of that Supream Power in Ecclesiastical matters, which is not only inherent in Ʋs, but hath been declared and Recognized to be so, by several Statutes and Acts of Par<g ref="char:EOLhyphen"/>liament; and therefore We do now accordingly issue this Our Declaration, as well for the quieting of the minds of Our God Subjects, in these Points, for Inviting of Stran<g ref="char:EOLhyphen"/>gers in this Conjuncture to come and live under Ʋs, and for the better Incouragement of all to a cheerful following of their Trade and Callings; from whence We hope by the Blessing of god to have many good and happy Advantages to Our Government.</hi>
+               </p>
+            </div>
+            <div n="4" type="reason">
+               <head>IV.</head>
+               <p>The Fourth Reason is, Because the Lords and Commons Assembled in Parli<g ref="char:EOLhyphen"/>ament, since these His Majesties Declarations, have upon mature deliberation considered the ill consequences of Prosecuting the Protestant Dissenters by the Penal Laws, and have shewed their willingness to a Tolleration in and for mat<g ref="char:EOLhyphen"/>ters of Conscience.</p>
+            </div>
+            <div n="5" type="reason">
+               <head>V.</head>
+               <p>The Fifth Reason is, Because the <hi>French Protestants</hi> (who are the Dissenters from the Established Worship of that Kingdom) are graciously and kindly re<g ref="char:EOLhyphen"/>ceived and succoured both by the King and his People: and the <hi>French King</hi> is highly blamed by English Protestants for Persecuting his Peaceable Subjects; and therefore there is much more reason that Protestants should not Prosecute one another, as it is this day; to the very great dammage of many good Fami<g ref="char:EOLhyphen"/>lies, only for their Conscience in matters of Religion; For this is to do the same things in <hi>England,</hi> that by <hi>England</hi> are condemned in <hi>France.</hi> Therefore let the words of the Apostle <hi>Paul</hi> be well considered, <hi>Rom.</hi> 2.1, 3. <hi>thou art inexcusable O man, whoever thou art, that judgest: For wherein thou judgest another, thou con<g ref="char:EOLhyphen"/>demnest thy self; for thou that judgest, doest the same things: And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt Escape the Judgement of God?</hi>
+               </p>
+            </div>
+            <div n="6" type="reason">
+               <head>VI.</head>
+               <p>The Sixth Reason is, Because there is a great and good Agreement between the conforming and Nonconforming Protestants, in the chief things of the Protestnat Religion: As for instance; 1. Both Parties believe in the holy Tri<g ref="char:EOLhyphen"/>nity, <hi>viz.</hi> Father, Son, and Holy Ghost; 2. That Jesus Christ is very God, and very man, and the only Saviour of Sinners: 3. That Salvation doth de<g ref="char:EOLhyphen"/>pend
+<pb n="5" facs="tcp:63586:4"/>upon the miraculous Birth, the holy Life, the painful Death, the power<g ref="char:EOLhyphen"/>ful Resurrection, the joyful Ascention, the Constant Intercession, and the glorious Second coming of Jesus Christ. 4. Both Parties do Profess that the VVorship of God ought to be according to the holy Scriptures, &amp; not according to the Inventions of any sort of Mankind. 5. Both Parties do deny praying to Angels and deceased Saints, &amp; both do also deny a Purgatory. 6. Both Parties do believe and profess that there is a Heaven of Everlasting Joy for the Godly, and a Hell of Eternal Woe for the VVicked. 7. The Protestant Dissenters do highly approve of, and are zealous for such a Church as is described in the 19th Article of the church of <hi>England;</hi> which is as follows, viz. <hi>The Visible Church of Christ is a Congregation of Faithful Men, in the which the Pure Word of God is Preached, and the Sacraments be duly Mini<g ref="char:EOLhyphen"/>stred, according to Christs Ordinance, in all those things that of necessity are requi<g ref="char:EOLhyphen"/>site to the same.</hi>
+               </p>
+               <p>Now let these few things be Considered:</p>
+               <list>
+                  <item>1. That the Protestant Dissenters are Conscienciously Careful to maintain Spiritual Communion in matters of Religion, with the most Faithful People; <hi>viz.</hi> Such as have true Faith in Christ, and that labour to live according to the faithful VVord of Christ, being thereby taught to live Soberly and Godly in this Present Evil VVorld, hating Profaneness, <hi>viz.</hi> Swearing, Cursing, Drunken<g ref="char:EOLhyphen"/>ness, VVhoring, and all other kind of Debauchery.</item>
+                  <item>2. Consider, That they cannot in Conscience keep up and maintain a holy Communion in Christs holy Ordinances with such unholy Persons, because such cannot be fairly Counted the Congregation of faithful People, who are so unfaithful to God, and unto their own Souls, and to the Protestant Religion, though Professed by them.</item>
+                  <item>3. Consider, That the pure VVord of God is powerfully Preached in the As<g ref="char:EOLhyphen"/>semblies of Protestant Dissenters, to the Conversion and Reformation of many of His Majesties Subjects; and the Lords Supper is purely and peaceably Mini<g ref="char:EOLhyphen"/>stred among them, according to the best of their Understandings in the VVord of God, wherein they keep up a holy Remembrance of Christs Death, for the Salvation of their Souls: And therefore they ought not to be accounted Schif<g ref="char:EOLhyphen"/>maticks and Sinful Separatists, but they ought to be owned as Furtherers and Promoters of the Purity of the Protestant Religion: thought instead thereof, they are Prosecuted as Seditious and Riotious Persons.</item>
+               </list>
+            </div>
+            <div n="7" type="reason">
+               <head>VII.</head>
+               <p>The Seventh Reason is, Because all sorts of Persons do desire Liberty of Con<g ref="char:EOLhyphen"/>science as a great Good for themselves; Even those that are for imposing upon, and distressing of Others, would not be so dealt with themselves; but would account it hard measure, yea, Cruelty, to be forc'd to <hi>forbear</hi> such things in Religion, or <hi>perform</hi> such things in Religion, as are against their Consciences, or else to suffer in their Purses or Persons; as for instance, The Church Protestants would deem it a great Persecution if they should be punished for not turning Presbyterians, Independents, Baptists, or Qua<g ref="char:EOLhyphen"/>kers: And why then should they take pleasure in punishing of, and so strive to force any of the others to be of their minds, and conform to their manners of VVorship? Let such rather observe the Words of Christ, <hi>Mat.</hi> 7.12. <hi>Whatsoever ye would that men should do to you, do ye even so to them; for this is the Law and the Prophets.</hi>
+               </p>
+            </div>
+            <div n="8" type="reason">
+               <head>VIII.</head>
+               <p>The Eighth Reason is, Because the using of Outward Compulsion in mat<g ref="char:EOLhyphen"/>ters of Conscience, is the ready Way to make men Hypocrites; for if Men Conform to any way of VVorship unwillingly, they cannot serve God accep<g ref="char:EOLhyphen"/>tably,
+<pb n="6" facs="tcp:63586:5"/>though the Matter and Form of VVorship be never so Right because the Heart of the VVorshipper is not Right for if it were not for Compulsion, he would not be in such a Practice or Profe<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and therefore he that conforms by Compulsion to <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of being <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> unto Man, but not unto God. <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> shall be Performed sincerely and willingly, <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 8.9.</p>
+            </div>
+            <div n="9" type="reason">
+               <head>IX.</head>
+               <p>The Ninth Reason is, <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Compulsion in matters of Conscience, is a breach of the good Rules of <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> manity, and common Civility among all sorts of men, which is carefully <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> smaller matters, as for instance: Such is the Civility of men towards each other, that they abl<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> force that Meat or Drink down the Throats of <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which will not agree with their Bodies but do freely and friendly say to each other. <hi>Pray take that which doth best agree with you, and is most for the Health of your Bod<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</hi> Now therefore for men to be so Civil to one another in Temporal things respecting the Mortal Body, and to be so uncivil in Spiritual things, respecting the immortal Soul, surely it may without Breach of Charity be judged a great reach of Humanity, and Christi<g ref="char:EOLhyphen"/>anity also.</p>
+            </div>
+            <div n="10" type="reason">
+               <head>X.</head>
+               <p>The Tenth Reason is, Because the Church <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in <hi>England</hi> have been <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rely distressed by hot Persecutions <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Bloody Papists in the <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for not Conform<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Worship <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and there<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> not to persecute <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> because they <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Persecuted themselves.</p>
+            </div>
+            <div n="11" type="reason">
+               <head>XI.</head>
+               <p>The Eleventh Reason is Because both the Church <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Dis<g ref="char:EOLhyphen"/>senters are all in a like danger of the Popish Party, who are waiting for, and long to have the Government of <hi>England</hi> in their hands, (which God of his Infi<g ref="char:EOLhyphen"/>nite Mercy prevent) because they will make no difference between any sort of Protestants who are resolved to maintain their Protestant Principles and Prote<g ref="char:EOLhyphen"/>stant Practices; but they shall hang together, and burn together, as a Compa<g ref="char:EOLhyphen"/>ny of schismaticks and Hereticks.</p>
+            </div>
+            <div n="12" type="reason">
+               <head>XII.</head>
+               <p>The Twelfth Reason is, Because the Protestant-Dissenters do not belong to or own any Forreign Jurisdiction, but do abhor, detest, and protest against all Forreign Power, and Jurisdiction over the King, Kingdom, or any of the Kings Subjects; neither are they covetous of any Preserment either in Church or State, but de<g ref="char:EOLhyphen"/>sire only to live a Peaceable life in all Godliness and Honesty, under Authority, as Gods Word doth direct. <hi>And as this hath been the Practice of the Genera<g ref="char:EOLhyphen"/>lity of the Protestant-Dissenters of this Kingdom; So that is may still continue, <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be the Earnest Pra<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> and constant Endeavour of</hi>
+               </p>
+               <closer>
+                  <signed>His Majesties Loyal (though Suffering) Subject, <hi>James Jones.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="license">
+            <p>
+               <hi>Entred According to Order.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63586:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
